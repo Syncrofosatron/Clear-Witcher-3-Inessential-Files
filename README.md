@@ -23,4 +23,4 @@ For example, C > Program Files (x86) > TheWitcher3. Choose TheWitcher3 folder, o
 
 
 
-![Alt text](relative/Images/W3_0.png?raw=true "W3_0")
+![Alt text](relative/path/to/Images/W3_0.png?raw=true "W3_0")
