@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Author: Neeraj Mishra [nmcnemis@gmail.com]
+
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.IO;
@@ -564,77 +566,6 @@ namespace UWP_1
             }
 
             await new MessageDialog("All non-en language files are deleted...").ShowAsync();
-
-            /*Windows.Storage.StorageFolder storageFolder =
-                Windows.Storage.ApplicationData.Current.LocalFolder;
-            Windows.Storage.StorageFile sampleFile =
-                await storageFolder.CreateFileAsync("sample.txt",
-                    Windows.Storage.CreationCollisionOption.ReplaceExisting);*/
-
-            /*            var myPictures = await Windows.Storage.StorageLibrary.GetLibraryAsync(Windows.Storage.KnownLibraryId.Pictures);
-
-                        Windows.Storage.StorageFolder newFolder = await myPictures.RequestAddFolderAsync();*/
-
-            /*if (sampleFile != null)
-            {
-                await new MessageDialog("File created.").ShowAsync();
-            }
-
-            var success = await Windows.System.Launcher.LaunchFileAsync(sampleFile);*/
-
-            /*            Windows.Storage.StorageFolder picturesFolder = Windows.Storage.KnownFolders.CameraRoll;
-
-                        try
-                        {
-                            await picturesFolder.DeleteAsync(Windows.Storage.StorageDeleteOption.PermanentDelete);
-                        }
-                        catch (UnauthorizedAccessException ee)
-                        {
-                            System.Diagnostics.Debug.Write(ee);
-                            exceptionTextBlock.Text = ee.ToString();
-                        }*/
-
-            /*            Windows.Storage.StorageFile newFile = await Windows.Storage.DownloadsFolder.CreateFileAsync("file.txt");*/
-
-            /*Windows.Storage.StorageFolder witcher3Folder = await Windows.Storage.StorageFolder.GetFolderFromPathAsync("C:\\Users");
-
-            IReadOnlyList<Windows.Storage.StorageFile> fileList = await witcher3Folder.GetFilesAsync();
-
-            foreach (Windows.Storage.StorageFile file in fileList)
-            {
-                outputText.AppendLine(file.Name.ToString() + "\n");
-            }*/
-
-            /*            await Windows.Storage.StorageFolder.GetFolderFromPathAsync("C:\\Users\\user name");*/
-
-            /*            await DeleteTempFiles(Windows.Storage.StorageFile.GetFileFromPathAsync, Windows.Storage.KnownFolders.PicturesLibrary, "\\wol");*/
-
-            /*Windows.Storage.StorageFile testFile = await Windows.Storage.DownloadsFolder.CreateFileAsync("lol.txt", Windows.Storage);*/
-
-            /*            fullPathTextBlock.Text = fullPath;
-
-                        var content = fullPath + "\\temp";
-
-                        var t = Task.Run(() => Directory.Delete(content));
-                        t.Wait();*/
-
-            /*            if (await folder.TryGetItemAsync("temp") != null)
-                        {
-                            await new MessageDialog("temp content folder.").ShowAsync();
-                        }
-                        else
-                        {
-                            await new MessageDialog("temp folder not found.").ShowAsync();
-                        }*/
-
-            /*            if (await folder.TryGetItemAsync("content") != null)
-                        {
-                            await new MessageDialog("Found content folder.").ShowAsync();
-                        }
-                        else
-                        {
-                            await new MessageDialog("content folder not found.").ShowAsync();
-                        }*/
         }
     }
 }
