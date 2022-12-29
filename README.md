@@ -23,4 +23,4 @@ For example, C > Program Files (x86) > TheWitcher3. Choose TheWitcher3 folder, o
 
 
 
-[![W3_0]([https://github.com/altercation/solarized/raw/master/img](https://github.com/Syncrofosatron/Clear-Witcher-3-Inessential-Files/tree/main/Images/W3_0.png)](https://github.com/Syncrofosatron/Clear-Witcher-3-Inessential-Files/tree/main/Images/W3_0.png)
+[![W3_0]([https://github.com/Syncrofosatron/Clear-Witcher-3-Inessential-Files/tree/main/Images/W3_0.png)](https://github.com/Syncrofosatron/Clear-Witcher-3-Inessential-Files/tree/main/Images/W3_0.png)
