@@ -1,6 +1,7 @@
 # Clear-Witcher-3-Inessential-Files
 
-Solution made with UWP to delete the unneccessary files from The Witcher 3 game so as to make some space available.
+This program removes non-en files from The Witcher 3 game.
+Solution is made with UWP to delete the unneccessary files from The Witcher 3 game so as to make some space available.
 
 This works for Epic Games version of The Witcher 3 as I have that game only there and not on Steam... But I think it might work since the game directories are similar regardless of the platform we used to buy the game.
 
