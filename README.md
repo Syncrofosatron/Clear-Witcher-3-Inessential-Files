@@ -21,6 +21,10 @@ How it works?
 For example, C > Program Files (x86) > TheWitcher3. Choose TheWitcher3 folder, or whatever is the name.
 2. Then you will get a pop-up about the chosen folder, after that click on "Delete Files" and once it will be finished, you will receive pop-up that the files have been deleted (it might take some time for the files to bed deleted and the pop-up to appear, as I have selected default option for deletion in which, the deleted files would be moved to Recycle Bin).
 
+Permissions:
+Internet: To load the The Witcher 3 logo from the internet.
+File System: To delete the inessential files in the file system.
+
 
 
 
