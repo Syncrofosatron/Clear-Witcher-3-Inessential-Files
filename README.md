@@ -1,5 +1,7 @@
 # Clear-Witcher-3-Inessential-Files
 
+Author: Neeraj Mishra (nmcnemis@gmail.com).
+
 This program removes non-en files from The Witcher 3 game.
 Solution is made with UWP to delete the unneccessary files from The Witcher 3 game so as to make some space available.
 
