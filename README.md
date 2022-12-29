@@ -23,4 +23,10 @@ For example, C > Program Files (x86) > TheWitcher3. Choose TheWitcher3 folder, o
 
 
 
-[![W3_0]([https://github.com/Syncrofosatron/Clear-Witcher-3-Inessential-Files/tree/main/Images/W3_0.png)](https://github.com/Syncrofosatron/Clear-Witcher-3-Inessential-Files/tree/main/Images/W3_0.png)
+
+![W3_0](https://user-images.githubusercontent.com/62090955/209935532-806c00aa-6dda-4a63-a3ef-b7b90daad6a7.PNG)
+
+![W3_1](https://user-images.githubusercontent.com/62090955/209935554-7a638111-4aae-45c3-bbeb-fdb74921874c.PNG)
+
+![W3_2](https://user-images.githubusercontent.com/62090955/209935574-45be22b6-d3c9-4a26-a032-96c84be79225.PNG)
+
