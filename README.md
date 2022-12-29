@@ -11,7 +11,6 @@ How to run the solution?
 3. After that, just press "ctrl + F5" or "Start without debugging", and the application will run. Then follow the steps below.
 ==========
 
-
 ==========
 How it works?
 1. Click the "crossed swords" icon and give the location of the "TheWitcher3" folder, basically where it is installed (most probably in C drive), the root directory of the game.
