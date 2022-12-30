@@ -9,7 +9,7 @@ This works for Epic Games version of The Witcher 3 as I have that game only ther
 
 How to install?
 1. In the "AppPackages" folder, install the file by double-clicking "UWP_1_1.0.2.0_x86_x64_arm_Debug.appx".
-2. Follow the steps as mentioned above.
+2. Follow the steps as mentioned in <u>How it works</u> section.
 
 Or if want to make a fresh solutions to improve code or to customize, do the following:
 1. Make sure you have Visual Studio installed and support for creating application with Universsal Windows Platform.
