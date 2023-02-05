@@ -1,3 +1,6 @@
+Also uploaded on NexusMods.
+Username: n0kidding
+
 # Clear-Witcher-3-Inessential-Files
 
 Author: Neeraj Mishra (nmcnemis@gmail.com).
